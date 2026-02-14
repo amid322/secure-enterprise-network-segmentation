@@ -171,5 +171,5 @@ More than just configuration commands, this lab helped me see how routing, switc
 
 If you are interested in networking, cybersecurity, or learning through hands-on labs, feel free to connect.
 
-- [GitHub](URL "https://github.com/amid322")
-- [Linkedln](URL "https://www.linkedin.com/in/ahmed-beshir-418904333/")
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-beshir-418904333/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amid322)
