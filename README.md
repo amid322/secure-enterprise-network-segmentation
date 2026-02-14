@@ -1,4 +1,3 @@
-# Enterprise Network Segmentation Simulation
 # Secure Enterprise Network Segmentation
 ![Status: Verified](https://img.shields.io/badge/Status-Verified-success) ![Tool: Packet Tracer](https://img.shields.io/badge/Tool-Packet%20Tracer-blue)
 
