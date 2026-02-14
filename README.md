@@ -18,7 +18,7 @@ This lab was created using Cisco Packet Tracer.
 ---
 ## Network Topology
 
-![[images/network-topology.png]]
+![Network Topology](images/network-topology.png)
 ## Network Architecture
 
 The network is divided into several logical areas:
@@ -149,7 +149,7 @@ From internal PC:
 
 ##### here on the image i have attached the test and results 
 
-![[images/ping_test.png]]
+![Ping tests ](images/ping_test.png)
 ## What I Learned
 
 This project helped me strengthen both my networking fundamentals and my security mindset through hands-on experimentation.
