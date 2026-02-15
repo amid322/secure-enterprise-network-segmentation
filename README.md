@@ -107,7 +107,7 @@ From the simulated Internet side:
 
   ping 192.168.1.10
 
-✅ **PASS** — DMZ server is reachable from outside as intended.
+ **PASS** — DMZ server is reachable from outside as intended.
 ### External → Internal Network Access
 
 From the simulated Internet side:
@@ -116,7 +116,7 @@ From the simulated Internet side:
 
   ping 10.10.x.x
 
-❌ **FAIL** — Internal network is protected and not reachable from outside.
+ **FAIL** — Internal network is protected and not reachable from outside.
 
 
 ### Internal VLAN Connectivity
@@ -129,7 +129,7 @@ Example:
 
   ping 10.10.30.x
 
-✅ **PASS** — Internal routing through the core switch is working.
+ **PASS** — Internal routing through the core switch is working.
 
 
 ### Segmentation Enforcement
@@ -139,14 +139,14 @@ Attempt communication between restricted networks based on ACL policy.
 Example:
 HR_PC -> FINANCE
 
-❌ **FAIL** — Traffic blocked according to security policy.
+ **FAIL** — Traffic blocked according to security policy.
 ### Internal → Internet Access
 
 From internal PC:
 
   ping 8.8.8.8
 
-✅ **PASS** — Outbound internet connectivity works through NAT.
+ **PASS** — Outbound internet connectivity works through NAT.
 
 ##### here on the image i have attached the test and results 
 
