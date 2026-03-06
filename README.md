@@ -165,7 +165,7 @@ Some key things I practiced and understood better:
 - Troubleshooting connectivity issues using ping, traceroute, and routing tables
 - Thinking about security during design, not only after deployment
 
-More than just configuration commands, this lab helped me see how routing, switching, and firewall behavior connect together to form a secure and functional network.
+this lab helped me see how routing, switching, and firewall behavior connect together to form a secure and functional network.
 
 
 ## 🔗 Connect with Me
